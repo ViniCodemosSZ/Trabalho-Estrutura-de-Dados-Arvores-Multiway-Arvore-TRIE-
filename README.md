@@ -32,6 +32,6 @@ Para compilar e executar o projeto, você precisa ter o **JDK (Java Development 
 
 ## Autor e Disciplina
 
--   [cite_start]**Aluno:** Vinicius Edivaldo Souza Penhorato [cite: 65]
+-   **Aluno:** Vinicius Edivaldo Souza Penhorato
 -   **Disciplina:** Estrutura de Dados
--   [cite_start]**Professor:** Andrey Cabral Meira [cite: 65]
+-  **Professor:** Andrey Cabral Meira 
